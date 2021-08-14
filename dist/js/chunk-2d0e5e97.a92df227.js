@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e5e97"],{9703:function(e,c,n){"use strict";n.r(c);var s=n("7a23"),t={class:"error content"},o=Object(s["j"])("div",{class:"header"},[Object(s["j"])("img",{src:"/img/img_broom.svg",alt:""}),Object(s["j"])("h1",null,"Not Found"),Object(s["j"])("p",{class:"message"},"お探しのページは見つかりませんでした。")],-1);function r(e,c){return Object(s["s"])(),Object(s["f"])("main",t,[o])}const a={};a.render=r;c["default"]=a}}]);
+//# sourceMappingURL=chunk-2d0e5e97.a92df227.js.map
